@@ -1,5 +1,6 @@
 server:
   port: 7070
+name: joshua
 management:
   endpoint:
     shutdown:
