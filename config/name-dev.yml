@@ -1,3 +1,5 @@
+server:
+  port: 7070
 management:
   endpoint:
     shutdown:
